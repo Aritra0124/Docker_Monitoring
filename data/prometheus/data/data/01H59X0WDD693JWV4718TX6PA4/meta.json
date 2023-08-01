@@ -1,0 +1,17 @@
+{
+	"ulid": "01H59X0WDD693JWV4718TX6PA4",
+	"minTime": 1689317516687,
+	"maxTime": 1689321600000,
+	"stats": {
+		"numSamples": 192569,
+		"numSeries": 5894,
+		"numChunks": 5894
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01H59X0WDD693JWV4718TX6PA4"
+		]
+	},
+	"version": 1
+}
